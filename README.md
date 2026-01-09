@@ -10,4 +10,4 @@ The font covers Latin, Cyrillic and Greek scripts, supporting 105 languages in t
 
 <br>
 
-![Preview](preview.png)
+![Preview](preview0.png)
